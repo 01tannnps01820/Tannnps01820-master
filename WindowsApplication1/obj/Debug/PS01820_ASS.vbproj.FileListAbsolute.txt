@@ -26,3 +26,7 @@ C:\Users\Tan\Desktop\Assignment GDFINAL_INF205_Tannnps01820\PS01820\WindowsAppli
 C:\Users\Tan\Desktop\Assignment GDFINAL_INF205_Tannnps01820\PS01820\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
 C:\Users\Tan\Desktop\Assignment GDFINAL_INF205_Tannnps01820\PS01820\WindowsApplication1\obj\Debug\WindowsApplication1.frmSanpham.resources
 C:\Users\Tan\Desktop\Assignment GDFINAL_INF205_Tannnps01820\PS01820\WindowsApplication1\obj\Debug\PS01820_ASS.vbproj.GenerateResource.Cache
+D:\0. Soft\Tannnps01820-master\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\0. Soft\Tannnps01820-master\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\0. Soft\Tannnps01820-master\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\0. Soft\Tannnps01820-master\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
